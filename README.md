@@ -1,14 +1,14 @@
-# vuex-history
+# vuex-redo-undo
 
 > a history plugin for vuex that allows you to undo or redo the store history.
 
 ## installation
 ``` bash
-npm i --save-dev vuex-history
+npm i --save-dev vuex-redo-undo
 ```
 ## module
 ``` bash
-import VuexHistory from 'vuex-history';
+import VuexHistory from 'vuex-redo-undo';
 ```
 ## usage
 use it as same as vue plugin, and pass the store as a params of plugin.
